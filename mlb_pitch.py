@@ -55,8 +55,8 @@ pitlist = []
 pitlist = dfpc['pit_last_name'].value_counts()
 print(pitlist)
 
-dfdv = dfpc[['pit_last_name', 'start_speed', 'x', 'y']]
+dfdv = dfpc[['pit_last_name', 'start_speed', 'ax', 'ay']]
 print(dfdv[dfdv['pit_last_name'] == 'Darvish'])
 
-dfdv.plot.scatter(x='x', y='y', alpha=0.5)
+dfdv.plot.scatter(x='ax', y='ay', alpha=0.5)
 plt.show()

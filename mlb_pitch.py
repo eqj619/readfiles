@@ -1,5 +1,7 @@
 import pandas as pd
 import glob
+import matplotlib as mpl
+import matplotlib.pyplot as plt
 #df = pd.read_csv("~/Dropbox/MLB/mlbam_pitch_20190901.csv", index_col=0)
 
 mlbpathPattern = r"/Users/eijioga/Dropbox/MLB/*_pitch*.csv"
@@ -55,3 +57,6 @@ print(pitlist)
 
 dfdv = dfpc[['pit_last_name', 'start_speed', 'x', 'y']]
 print(dfdv[dfdv['pit_last_name'] == 'Darvish'])
+
+dfdv.plot.scatter(x='x', y='y', alpha=0.5)
+plt.show()

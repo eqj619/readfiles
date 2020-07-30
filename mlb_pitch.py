@@ -4,7 +4,8 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 #df = pd.read_csv("~/Dropbox/MLB/mlbam_pitch_20190901.csv", index_col=0)
 
-mlbpathPattern = r"/Users/eijioga/Dropbox/MLB/*_pitch*.csv"
+#mlbpathPattern = r"/Users/eijioga/Dropbox/MLB/*_pitch*.csv"
+mlbpathPattern = r"./MLB/*_pitch*.csv"
 filelist = glob.glob(mlbpathPattern)
 
 dflist = []

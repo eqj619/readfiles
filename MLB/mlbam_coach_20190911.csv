@@ -1,0 +1,307 @@
+retro_game_id,id,first,last,position,num,team_id,team_name
+NYN201909110,117950,Torey,Lovullo,manager,17,ARI,Arizona Diamondbacks
+NYN201909110,119655,Jerry,Narron,bench_coach,12,ARI,Arizona Diamondbacks
+NYN201909110,112491,Darnell,Coles,hitting_coach,11,ARI,Arizona Diamondbacks
+NYN201909110,400134,Eric,Hinske,assistant_hitting_coach,77,ARI,Arizona Diamondbacks
+NYN201909110,111807,Mike,Butcher,pitching_coach,23,ARI,Arizona Diamondbacks
+NYN201909110,118763,Dave,McKay,first_base_coach,39,ARI,Arizona Diamondbacks
+NYN201909110,120418,Tony,Perezchica,third_base_coach,3,ARI,Arizona Diamondbacks
+NYN201909110,114097,Mike,Fetters,bullpen_coach,43,ARI,Arizona Diamondbacks
+NYN201909110,425631,Robby,Hammock,quality_control/catching_coach,7,ARI,Arizona Diamondbacks
+NYN201909110,468222,Luis,Urueta,coach,60,ARI,Arizona Diamondbacks
+NYN201909110,576788,Dan,Butler,bullpen_catcher,Unknown,ARI,Arizona Diamondbacks
+NYN201909110,279827,Humberto,Quintero,bullpen_catcher,84,ARI,Arizona Diamondbacks
+NYN201909110,453268,Daniel,Bard,special_assistant,Unknown,ARI,Arizona Diamondbacks
+NYN201909110,678771,Shawn,Marette,senior_baseball_advisor,Unknown,ARI,Arizona Diamondbacks
+NYN201909110,444041,Gil,Velazquez,infield_coordinator,Unknown,ARI,Arizona Diamondbacks
+NYN201909110,209068,Mickey,Callaway,manager,36,NYM,New York Mets
+NYN201909110,427427,Jim,Riggleman,bench_coach,50,NYM,New York Mets
+NYN201909110,113099,Chili,Davis,hitting_coach,54,NYM,New York Mets
+NYN201909110,121017,Phil,Regan,interim_pitching_coach,58,NYM,New York Mets
+NYN201909110,567160,Tom,Slater,assistant_hitting_coach,56,NYM,New York Mets
+NYN201909110,435618,Jeremy,Accardo,pitching_coach,60,NYM,New York Mets
+NYN201909110,427468,Glenn,Sherlock,first_base_coach,53,NYM,New York Mets
+NYN201909110,113387,Gary,Disarcina,third_base_coach,10,NYM,New York Mets
+NYN201909110,111191,Ricky,Bones,interim_bullpen_coach,25,NYM,New York Mets
+NYN201909110,467588,Luis,Rojas,quality_control_coach,60,NYM,New York Mets
+NYN201909110,430002,Eric,Langill,bullpen_catcher,78,NYM,New York Mets
+NYN201909110,534948,Dave,Racaniello,bullpen_catcher,57,NYM,New York Mets
+NYN201909110,431151,David,Wright,special_advisor,Unknown,NYM,New York Mets
+PHI201909110,492535,Brian,Snitker,manager,43,ATL,Atlanta Braves
+PHI201909110,124054,Walt,Weiss,bench_coach,4,ATL,Atlanta Braves
+PHI201909110,121983,Kevin,Seitzer,hitting_coach,28,ATL,Atlanta Braves
+PHI201909110,494165,Jose,Castro,assistant_hitting_coach,59,ATL,Atlanta Braves
+PHI201909110,492899,Rick,Kranitz,pitching_coach,39,ATL,Atlanta Braves
+PHI201909110,124695,Eric,Young,first_base_coach,2,ATL,Atlanta Braves
+PHI201909110,123965,Ron,Washington,third_base_coach,37,ATL,Atlanta Braves
+PHI201909110,474602,Marty,Reed,bullpen_coach,34,ATL,Atlanta Braves
+PHI201909110,686518,Jimmy,Leo,bullpen_catcher,97,ATL,Atlanta Braves
+PHI201909110,470920,Jose,Yepez,bullpen_catcher,99,ATL,Atlanta Braves
+PHI201909110,114031,Sal,Fasano,catching_coach,57,ATL,Atlanta Braves
+PHI201909110,137002,Gabe,Kapler,manager,19,PHI,Philadelphia Phillies
+PHI201909110,479080,Rob,Thomson,bench_coach,59,PHI,Philadelphia Phillies
+PHI201909110,118261,Charlie,Manuel,hitting_coach,41,PHI,Philadelphia Phillies
+PHI201909110,463313,Pedro,Guerrero,assistant_hitting_coach,60,PHI,Philadelphia Phillies
+PHI201909110,459314,Chris,Young,pitching_coach,45,PHI,Philadelphia Phillies
+PHI201909110,150326,David,Lundquist,assistant_pitching_coach,57,PHI,Philadelphia Phillies
+PHI201909110,150130,Dusty,Wathan,third_base_coach,62,PHI,Philadelphia Phillies
+PHI201909110,114992,Jim,Gott,bullpen_coach,35,PHI,Philadelphia Phillies
+PHI201909110,679012,Craig,Driver,bullpen_catcher,81,PHI,Philadelphia Phillies
+PHI201909110,595433,Bob,Stumpo,bullpen_catcher,82,PHI,Philadelphia Phillies
+PHI201909110,446111,Paco,Figueroa,first_base_coach,38,PHI,Philadelphia Phillies
+PHI201909110,433638,Bobby,Dickerson,infield_coordinator,39,PHI,Philadelphia Phillies
+TOR201909110,133321,Alex,Cora,manager,20,BOS,Boston Red Sox
+TOR201909110,116377,Tim,Hyers,hitting_coach,51,BOS,Boston Red Sox
+TOR201909110,406723,Andy,Barkett,assistant_hitting_coach,58,BOS,Boston Red Sox
+TOR201909110,427298,Dana,LeVangie,pitching_coach,60,BOS,Boston Red Sox
+TOR201909110,446454,Brian,Bannister,assistant_pitching_coach,86,BOS,Boston Red Sox
+TOR201909110,114961,Tom,Goodwin,first_base_coach,82,BOS,Boston Red Sox
+TOR201909110,136866,Carlos,Febles,third_base_coach,52,BOS,Boston Red Sox
+TOR201909110,121373,Ron,Roenicke,bench_coach,30,BOS,Boston Red Sox
+TOR201909110,459643,Craig,Bjornson,bullpen_coach,53,BOS,Boston Red Sox
+TOR201909110,407496,Ramon,Vazquez,coach,84,BOS,Boston Red Sox
+TOR201909110,463799,Mani,Martinez,bullpen_catcher,88,BOS,Boston Red Sox
+TOR201909110,119271,Charlie,Montoyo,manager,25,TOR,Toronto Blue Jays
+TOR201909110,116256,Dave,Hudgens,bench_coach,39,TOR,Toronto Blue Jays
+TOR201909110,446170,Guillermo,Martinez,hitting_coach,18,TOR,Toronto Blue Jays
+TOR201909110,123839,Pete,Walker,pitching_coach,40,TOR,Toronto Blue Jays
+TOR201909110,400119,Mark,Budzinski,first_base_coach,53,TOR,Toronto Blue Jays
+TOR201909110,121248,Luis,Rivera,third_base_coach,4,TOR,Toronto Blue Jays
+TOR201909110,501936,Matt,Buschmann,bullpen_coach,26,TOR,Toronto Blue Jays
+TOR201909110,456120,John,Schneider,major_league_coach,17,TOR,Toronto Blue Jays
+TOR201909110,432938,Alex,Andreopoulos,bullpen_catcher,61,TOR,Toronto Blue Jays
+TOR201909110,502213,Nevin,Ashley,bullpen_catcher,55,TOR,Toronto Blue Jays
+SDN201909110,427309,Joe,Maddon,manager,70,CHC,Chicago Cubs
+SDN201909110,117928,Mark,Loretta,bench_coach,19,CHC,Chicago Cubs
+SDN201909110,459415,Tommy,Hottovy,pitching_coach,68,CHC,Chicago Cubs
+SDN201909110,437676,Anthony,Iapoce,hitting_coach,43,CHC,Chicago Cubs
+SDN201909110,212356,Terrmel,Sledge,assistant_hitting_coach,1,CHC,Chicago Cubs
+SDN201909110,461416,Will,Venable,first_base_coach,99,CHC,Chicago Cubs
+SDN201909110,427047,Brian,Butterfield,third_base_coach,55,CHC,Chicago Cubs
+SDN201909110,459635,Mike,Borzello,catching_coach,58,CHC,Chicago Cubs
+SDN201909110,506427,Lester,Strode,bullpen_coach,0,CHC,Chicago Cubs
+SDN201909110,595344,Chad,Noble,bullpen_catcher,95,CHC,Chicago Cubs
+SDN201909110,456121,Chris,Denorfia,quality_control_coach,76,CHC,Chicago Cubs
+SDN201909110,150322,Mark,Johnson,catching_coach,Unknown,CHC,Chicago Cubs
+SDN201909110,433477,Andy,Green,manager,14,SD,San Diego Padres
+SDN201909110,150148,Rod,Barajas,bench_coach,20,SD,San Diego Padres
+SDN201909110,444373,Johnny,Washington,hitting_coach,28,SD,San Diego Padres
+SDN201909110,113702,Damion,Easley,assistant_hitting_coach,15,SD,San Diego Padres
+SDN201909110,429382,Darren,Balsley,pitching_coach,36,SD,San Diego Padres
+SDN201909110,435401,Skip,Schumaker,first_base_coach,56,SD,San Diego Padres
+SDN201909110,116027,Glenn,Hoffman,third_base_coach,26,SD,San Diego Padres
+SDN201909110,111135,Doug,Bochtler,bullpen_coach,45,SD,San Diego Padres
+SDN201909110,475340,Griffin,Benedict,bullpen_catcher,81,SD,San Diego Padres
+SDN201909110,671830,Peter,Summerville,bullpen_catcher,Unknown,SD,San Diego Padres
+SDN201909110,608727,Keith,Werman,development_coach,82,SD,San Diego Padres
+SEA201909110,110816,David,Bell,manager,25,CIN,Cincinnati Reds
+SEA201909110,110848,Freddie,Benavides,bench_coach,45,CIN,Cincinnati Reds
+SEA201909110,123930,Turner,Ward,hitting_coach,31,CIN,Cincinnati Reds
+SEA201909110,452778,Donnie,Ecker,assistant_hitting_coach,64,CIN,Cincinnati Reds
+SEA201909110,627038,Derek,Johnson,pitching_coach,36,CIN,Cincinnati Reds
+SEA201909110,571584,Caleb,Cotham,assistant_pitching_coach,65,CIN,Cincinnati Reds
+SEA201909110,113291,Delino,DeShields,first_base_coach,90,CIN,Cincinnati Reds
+SEA201909110,407399,J.R.,House,third_base_coach,56,CIN,Cincinnati Reds
+SEA201909110,429402,Jeff,Pickler,coach,61,CIN,Cincinnati Reds
+SEA201909110,123502,Lee,Tunnell,bullpen_coach,60,CIN,Cincinnati Reds
+SEA201909110,656574,Nate,Irving,bullpen_catcher,92,CIN,Cincinnati Reds
+SEA201909110,684408,Cristian,Perez,assistant_coach,89,CIN,Cincinnati Reds
+SEA201909110,464708,Rolando,Valles,assistant_coach,88,CIN,Cincinnati Reds
+SEA201909110,122011,Scott,Servais,manager,29,SEA,Seattle Mariners
+SEA201909110,427000,Manny,Acta,bench_coach,14,SEA,Seattle Mariners
+SEA201909110,117420,Tim,Laker,hitting_coach,21,SEA,Seattle Mariners
+SEA201909110,628243,Paul,Davis,pitching_coach,28,SEA,Seattle Mariners
+SEA201909110,427228,Perry,Hill,first_base_coach,6,SEA,Seattle Mariners
+SEA201909110,408076,Chris,Prieto,third_base_coach,13,SEA,Seattle Mariners
+SEA201909110,150342,Jim,Brower,bullpen_coach,38,SEA,Seattle Mariners
+SEA201909110,466245,Fleming,Baez,bullpen_catcher,66,SEA,Seattle Mariners
+SEA201909110,277409,Jared,Sandberg,major_league_staff_coordinator,48,SEA,Seattle Mariners
+SEA201909110,111904,Mike,Cameron,special_assignment_coach,Unknown,SEA,Seattle Mariners
+ANA201909110,114378,Terry,Francona,manager,77,CLE,Cleveland Indians
+ANA201909110,119149,Brad,Mills,bench_coach,0,CLE,Cleveland Indians
+ANA201909110,123628,Ty,Van Burkleo,hitting_coach,29,CLE,Cleveland Indians
+ANA201909110,121367,Victor,Rodriguez,assistant_hitting_coach,60,CLE,Cleveland Indians
+ANA201909110,124356,Carl,Willis,pitching_coach,51,CLE,Cleveland Indians
+ANA201909110,110184,Sandy,Alomar,first_base_coach,15,CLE,Cleveland Indians
+ANA201909110,492531,Mike,Sarbaugh,third_base_coach,16,CLE,Cleveland Indians
+ANA201909110,425786,Scott,Atchison,bullpen_coach,88,CLE,Cleveland Indians
+ANA201909110,425789,Brian,Sweeney,major_league_coach,85,CLE,Cleveland Indians
+ANA201909110,440924,Armando,Camacaro,bullpen_catcher,64,CLE,Cleveland Indians
+ANA201909110,607671,Ricky,Pacione,bullpen_catcher,82,CLE,Cleveland Indians
+ANA201909110,110385,Brad,Ausmus,manager,12,LAA,Los Angeles Angels
+ANA201909110,150331,Josh,Paul,bench_coach,88,LAA,Los Angeles Angels
+ANA201909110,430598,Jeremy,Reed,hitting_coach,77,LAA,Los Angeles Angels
+ANA201909110,122541,Paul,Sorrento,assistant_hitting_coach,55,LAA,Los Angeles Angels
+ANA201909110,279564,Shawn,Wooten,assistant_hitting_coach,76,LAA,Los Angeles Angels
+ANA201909110,534449,Doug,White,pitching_coach,74,LAA,Los Angeles Angels
+ANA201909110,440351,Jesus,Feliciano,first_base_coach,62,LAA,Los Angeles Angels
+ANA201909110,114545,Mike,Gallego,third_base_coach,86,LAA,Los Angeles Angels
+ANA201909110,457732,Andrew,Bailey,bullpen_coach,68,LAA,Los Angeles Angels
+ANA201909110,150040,Jose,Molina,catching_coach,82,LAA,Los Angeles Angels
+ANA201909110,531341,Matt,Martin,coach,80,LAA,Los Angeles Angels
+CHA201909110,124681,Ned,Yost,manager,3,KC,Kansas City Royals
+CHA201909110,123011,Dale,Sveum,bench_coach,26,KC,Kansas City Royals
+CHA201909110,111357,Terry,Bradshaw,hitting_coach,44,KC,Kansas City Royals
+CHA201909110,113793,Cal,Eldred,pitching_coach,22,KC,Kansas City Royals
+CHA201909110,430574,Mitch,Maier,first_base_coach,24,KC,Kansas City Royals
+CHA201909110,492497,Mike,Jirschele,third_base_coach,23,KC,Kansas City Royals
+CHA201909110,437073,Pedro,Grifol,catching_coach,21,KC,Kansas City Royals
+CHA201909110,136300,Vance,Wilson,bullpen_coach,18,KC,Kansas City Royals
+CHA201909110,518650,Ryan,Eigsti,bullpen_catcher,80,KC,Kansas City Royals
+CHA201909110,121075,Rick,Renteria,manager,36,CWS,Chicago White Sox
+CHA201909110,136607,Joe,McEwing,bench_coach,47,CWS,Chicago White Sox
+CHA201909110,122771,Todd,Steverson,hitting_coach,31,CWS,Chicago White Sox
+CHA201909110,533331,Greg,Sparks,assistant_hitting_coach,26,CWS,Chicago White Sox
+CHA201909110,112653,Don,Cooper,pitching_coach,99,CWS,Chicago White Sox
+CHA201909110,492931,Curt,Hasler,assistant_pitching_coach,29,CWS,Chicago White Sox
+CHA201909110,111257,Daryl,Boston,first_base_coach,8,CWS,Chicago White Sox
+CHA201909110,111973,Nick,Capra,third_base_coach,12,CWS,Chicago White Sox
+BAL201909110,150353,Dave,Roberts,manager,30,LAD,Los Angeles Dodgers
+BAL201909110,114712,Bob,Geren,bench_coach,8,LAD,Los Angeles Dodgers
+BAL201909110,116118,Rick,Honeycutt,pitching_coach,40,LAD,Los Angeles Dodgers
+BAL201909110,684057,Robert,Van Scoyoc,hitting_coach,6,LAD,Los Angeles Dodgers
+BAL201909110,111533,Brant,Brown,assistant_hitting_coach,37,LAD,Los Angeles Dodgers
+BAL201909110,136601,George,Lombard,first_base_coach,29,LAD,Los Angeles Dodgers
+BAL201909110,492822,Dino,Ebel,third_base_coach,12,LAD,Los Angeles Dodgers
+BAL201909110,407578,Mark,Prior,bullpen_coach,23,LAD,Los Angeles Dodgers
+BAL201909110,488686,Aaron,Bates,assistant_hitting_coach,33,LAD,Los Angeles Dodgers
+BAL201909110,460269,Chris,Gimenez,coach,38,LAD,Los Angeles Dodgers
+BAL201909110,572772,Steve,Cilladi,bullpen_catcher,82,LAD,Los Angeles Dodgers
+BAL201909110,492493,Brandon,Hyde,manager,18,BAL,Baltimore Orioles
+BAL201909110,408201,Howie,Clark,assistant_hitting_coach,88,BAL,Baltimore Orioles
+BAL201909110,492479,Tim,Cossins,field_coordinator,34,BAL,Baltimore Orioles
+BAL201909110,115825,Jose,Hernandez,major_league_coach,27,BAL,Baltimore Orioles
+BAL201909110,534229,Don,Long,hitting_coach,30,BAL,Baltimore Orioles
+BAL201909110,111492,Doug,Brocail,pitching_coach,26,BAL,Baltimore Orioles
+BAL201909110,492469,Arnie,Beyeler,first_base_coach,13,BAL,Baltimore Orioles
+BAL201909110,443110,Jose David,Flores,third_base_coach,11,BAL,Baltimore Orioles
+BAL201909110,123955,John,Wasdin,bullpen_coach,47,BAL,Baltimore Orioles
+BAL201909110,458031,Dustin,Hughes,bullpen_catcher,86,BAL,Baltimore Orioles
+MIA201909110,112736,Craig,Counsell,manager,30,MIL,Milwaukee Brewers
+MIA201909110,580268,Pat,Murphy,bench_coach,59,MIL,Milwaukee Brewers
+MIA201909110,534388,Andy,Haines,hitting_coach,49,MIL,Milwaukee Brewers
+MIA201909110,407835,Jason,Lane,assistant_hitting_coach,40,MIL,Milwaukee Brewers
+MIA201909110,116123,Chris,Hook,pitching_coach,48,MIL,Milwaukee Brewers
+MIA201909110,454368,Carlos,Subero,first_base_coach,31,MIL,Milwaukee Brewers
+MIA201909110,492532,Ed,Sedar,third_base_coach,0,MIL,Milwaukee Brewers
+MIA201909110,116853,Steve,Karsay,bullpen_coach,33,MIL,Milwaukee Brewers
+MIA201909110,433697,Robinzon,Diaz,bullpen_catcher,63,MIL,Milwaukee Brewers
+MIA201909110,438745,Marcus,Hanel,bullpen_catcher,55,MIL,Milwaukee Brewers
+MIA201909110,118443,Don,Mattingly,manager,8,MIA,Miami Marlins
+MIA201909110,123865,Tim,Wallach,bench_coach,38,MIA,Miami Marlins
+MIA201909110,531112,Jeff,Livesey,interim_hitting_coach,25,MIA,Miami Marlins
+MIA201909110,449080,Eric,Duncan,assistant_hitting_coach,Unknown,MIA,Miami Marlins
+MIA201909110,122838,Mel,Stottlemyre,pitching_coach,30,MIA,Miami Marlins
+MIA201909110,527068,Trey,Hillman,first_base_coach,3,MIA,Miami Marlins
+MIA201909110,427190,Fredi,Gonzalez,third_base_coach,33,MIA,Miami Marlins
+MIA201909110,492538,Dean,Treanor,bullpen_coach,24,MIA,Miami Marlins
+MIA201909110,429660,Rob,Flippo,bullpen_coordinator,85,MIA,Miami Marlins
+MIA201909110,150411,Brian,Schneider,catching_coach,23,MIA,Miami Marlins
+HOU201909110,118942,Bob,Melvin,manager,6,OAK,Oakland Athletics
+HOU201909110,134342,Ryan,Christenson,bench_coach,29,OAK,Oakland Athletics
+HOU201909110,470252,Darren,Bush,hitting_coach,51,OAK,Oakland Athletics
+HOU201909110,110119,Mike,Aldrete,assistant_hitting_coach,17,OAK,Oakland Athletics
+HOU201909110,491913,Scott,Emerson,pitching_coach,14,OAK,Oakland Athletics
+HOU201909110,120349,Al,Pedrique,first_base_coach,41,OAK,Oakland Athletics
+HOU201909110,124326,Matt,Williams,third_base_coach,4,OAK,Oakland Athletics
+HOU201909110,116534,Marcus,Jensen,bullpen_coach,59,OAK,Oakland Athletics
+HOU201909110,117276,Mark,Kotsay,quality_control_coach,7,OAK,Oakland Athletics
+HOU201909110,623951,Jeremy,Dowdy,bullpen_catcher,90,OAK,Oakland Athletics
+HOU201909110,543653,Philip,Pohl,bullpen_catcher,88,OAK,Oakland Athletics
+HOU201909110,134460,AJ,Hinch,manager,14,HOU,Houston Astros
+HOU201909110,440053,Joe,Espada,bench_coach,19,HOU,Houston Astros
+HOU201909110,400090,Alex,Cintron,hitting_coach,37,HOU,Houston Astros
+HOU201909110,607086,Troy,Snitker,hitting_coach,46,HOU,Houston Astros
+HOU201909110,122884,Brent,Strom,pitching_coach,56,HOU,Houston Astros
+HOU201909110,430603,Don,Kelly,first_base_coach,15,HOU,Houston Astros
+HOU201909110,120481,Gary,Pettis,third_base_coach,8,HOU,Houston Astros
+HOU201909110,448312,Joshua,Miller,bullpen_coach,48,HOU,Houston Astros
+HOU201909110,612538,Javier,Bracamonte,bullpen_catcher,85,HOU,Houston Astros
+HOU201909110,452015,Michael,Collins,catching_coach,84,HOU,Houston Astros
+SFN201909110,116346,Clint,Hurdle,manager,13,PIT,Pittsburgh Pirates
+SFN201909110,120771,Tom,Prince,bench_coach,14,PIT,Pittsburgh Pirates
+SFN201909110,492915,Rick,Eckstein,hitting_coach,41,PIT,Pittsburgh Pirates
+SFN201909110,112901,Jacob,Cruz,assistant_hitting_coach,81,PIT,Pittsburgh Pirates
+SFN201909110,121956,Ray,Searage,pitching_coach,54,PIT,Pittsburgh Pirates
+SFN201909110,445593,Justin,Meccage,assistant_pitching_coach,87,PIT,Pittsburgh Pirates
+SFN201909110,110638,Kimera,Bartee,first_base_coach,18,PIT,Pittsburgh Pirates
+SFN201909110,112664,Joey,Cora,third_base_coach,28,PIT,Pittsburgh Pirates
+SFN201909110,427436,Euclides,Rojas,bullpen_coach,56,PIT,Pittsburgh Pirates
+SFN201909110,492913,Dave,Jauss,coach,85,PIT,Pittsburgh Pirates
+SFN201909110,548089,Jordan,Comadena,bullpen_catcher,89,PIT,Pittsburgh Pirates
+SFN201909110,534932,Heberto,Andrade,assistant_coach,86,PIT,Pittsburgh Pirates
+SFN201909110,111136,Bruce,Bochy,manager,15,SF,San Francisco Giants
+SFN201909110,119004,Hensley,Meulens,bench_coach,31,SF,San Francisco Giants
+SFN201909110,120710,Alonzo,Powell,hitting_coach,33,SF,San Francisco Giants
+SFN201909110,121872,Rick,Schu,assistant_hitting_coach,39,SF,San Francisco Giants
+SFN201909110,124689,Curt,Young,pitching_coach,43,SF,San Francisco Giants
+SFN201909110,503062,Jose,Alguacil,first_base_coach,17,SF,San Francisco Giants
+SFN201909110,124588,Ron,Wotus,third_base_coach,23,SF,San Francisco Giants
+SFN201909110,150382,Matt,Herges,bullpen_coach,77,SF,San Francisco Giants
+SFN201909110,113645,Shawon,Dunston,major_league_coach,21,SF,San Francisco Giants
+SFN201909110,666065,Taira,Uematsu,bullpen_catcher,99,SF,San Francisco Giants
+COL201909110,492917,Mike,Shildt,manager,8,STL,St. Louis Cardinals
+COL201909110,458538,Oliver,Marmol,bench_coach,37,STL,St. Louis Cardinals
+COL201909110,527982,Jeff,Albert,hitting_coach,54,STL,St. Louis Cardinals
+COL201909110,541623,Jobel,Jimenez,assistant_hitting_coach,Unknown,STL,St. Louis Cardinals
+COL201909110,118121,Mike,Maddux,pitching_coach,31,STL,St. Louis Cardinals
+COL201909110,406893,Stubby,Clapp,first_base_coach,11,STL,St. Louis Cardinals
+COL201909110,491917,Ron 'Pop',Warner,third_base_coach,75,STL,St. Louis Cardinals
+COL201909110,118694,Willie,McGee,assistant_coach,51,STL,St. Louis Cardinals
+COL201909110,113953,Bryan,Eversgerd,bullpen_coach,72,STL,St. Louis Cardinals
+COL201909110,408217,Jamie,Pogue,bullpen_catcher,94,STL,St. Louis Cardinals
+COL201909110,500675,Kleininger,Teran,bullpen_catcher,76,STL,St. Louis Cardinals
+COL201909110,111034,Bud,Black,manager,10,COL,Colorado Rockies
+COL201909110,133226,Mike,Redmond,bench_coach,11,COL,Colorado Rockies
+COL201909110,118132,Dave,Magadan,hitting_coach,16,COL,Colorado Rockies
+COL201909110,434625,Jeff,Salazar,assistant_hitting_coach,41,COL,Colorado Rockies
+COL201909110,114339,Steve,Foster,pitching_coach,36,COL,Colorado Rockies
+COL201909110,492488,Ronnie,Gideon,first_base_coach,53,COL,Colorado Rockies
+COL201909110,112469,Stu,Cole,third_base_coach,39,COL,Colorado Rockies
+COL201909110,116100,Darren,Holmes,bullpen_coach,40,COL,Colorado Rockies
+COL201909110,677866,Kyle,Cunningham,bullpen_catcher,75,COL,Colorado Rockies
+COL201909110,607657,Aaron,Munoz,bullpen_catcher,77,COL,Colorado Rockies
+TEX201909110,408211,Kevin,Cash,manager,16,TB,Tampa Bay Rays
+TEX201909110,493032,Matt,Quatraro,bench_coach,33,TB,Tampa Bay Rays
+TEX201909110,119456,Chad,Mottola,hitting_coach,51,TB,Tampa Bay Rays
+TEX201909110,216897,Kyle,Snyder,pitching_coach,23,TB,Tampa Bay Rays
+TEX201909110,123350,Ozzie,Timmons,first_base_coach,30,TB,Tampa Bay Rays
+TEX201909110,494883,Rodney,Linares,third_base_coach,27,TB,Tampa Bay Rays
+TEX201909110,494748,Stan,Boroski,bullpen_coach,41,TB,Tampa Bay Rays
+TEX201909110,521309,Mayo,Acosta,bullpen_catcher,98,TB,Tampa Bay Rays
+TEX201909110,470373,Misha,Dworken,bullpen_catcher,99,TB,Tampa Bay Rays
+TEX201909110,684070,Jonathan,Erlichman,coach,97,TB,Tampa Bay Rays
+TEX201909110,503360,Craig,Albernaz,field_coordinator,Unknown,TB,Tampa Bay Rays
+TEX201909110,442470,Michael,Johns,field_coordinator,Unknown,TB,Tampa Bay Rays
+TEX201909110,123412,Hector,Torres,infield_coordinator,Unknown,TB,Tampa Bay Rays
+TEX201909110,517019,Tomas,Francisco,catching_coach,Unknown,TB,Tampa Bay Rays
+TEX201909110,150137,Paul,Hoover,field_coordinator,25,TB,Tampa Bay Rays
+TEX201909110,218595,Chris,Woodward,manager,8,TEX,Texas Rangers
+TEX201909110,123798,Don,Wakamatsu,bench_coach,22,TEX,Texas Rangers
+TEX201909110,120077,Luis,Ortiz,hitting_coach,18,TEX,Texas Rangers
+TEX201909110,450825,Callix,Crabbe,assistant_hitting_coach,61,TEX,Texas Rangers
+TEX201909110,468007,Julio,Rangel,pitching_coach,47,TEX,Texas Rangers
+TEX201909110,136582,Hector,Ortiz,first_base_coach,4,TEX,Texas Rangers
+TEX201909110,433639,Tony,Beasley,third_base_coach,37,TEX,Texas Rangers
+TEX201909110,599909,Oscar,Marin,bullpen_coach,58,TEX,Texas Rangers
+TEX201909110,601612,Josh,Frasier,bullpen_catcher,66,TEX,Texas Rangers
+TEX201909110,461344,Jayce,Tingler,field_coordinator,32,TEX,Texas Rangers
+MIN201909110,118363,Dave,Martinez,manager,4,WSH,Washington Nationals
+MIN201909110,115330,Chip,Hale,bench_coach,12,WSH,Washington Nationals
+MIN201909110,438989,Kevin,Long,hitting_coach,54,WSH,Washington Nationals
+MIN201909110,434338,Joe,Dillon,assistant_hitting_coach,25,WSH,Washington Nationals
+MIN201909110,118950,Paul,Menhart,pitching_coach,Unknown,WSH,Washington Nationals
+MIN201909110,111148,Tim,Bogar,first_base_coach,24,WSH,Washington Nationals
+MIN201909110,133726,Bob,Henley,third_base_coach,14,WSH,Washington Nationals
+MIN201909110,111072,Henry,Blanco,bullpen_coach,35,WSH,Washington Nationals
+MIN201909110,408306,Rocco,Baldelli,manager,5,MIN,Minnesota Twins
+MIN201909110,486359,Derek,Shelton,bench_coach,8,MIN,Minnesota Twins
+MIN201909110,494875,James,Rowson,hitting_coach,82,MIN,Minnesota Twins
+MIN201909110,446973,Rudy,Hernandez,assistant_hitting_coach,63,MIN,Minnesota Twins
+MIN201909110,667684,Wes,Johnson,pitching_coach,47,MIN,Minnesota Twins
+MIN201909110,458550,Jeremy,Hefner,assistant_pitching_coach,45,MIN,Minnesota Twins
+MIN201909110,435714,Tommy,Watkins,first_base_coach,40,MIN,Minnesota Twins
+MIN201909110,447980,Tony,Diaz,third_base_coach,46,MIN,Minnesota Twins
+MIN201909110,433637,Bill,Evers,major_league_coach,67,MIN,Minnesota Twins
+MIN201909110,613588,Garrett,Kennedy,bullpen_catcher,97,MIN,Minnesota Twins
+MIN201909110,686374,Connor,Olson,bullpen_catcher,98,MIN,Minnesota Twins

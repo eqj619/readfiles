@@ -1,0 +1,9 @@
+retro_game_id,game_type,game_type_des,st_fl,regseason_fl,playoff_fl,local_game_time,game_id,home_team_id,home_team_lg,away_team_id,away_team_lg,home_team_name,away_team_name,home_team_name_full,away_team_name_full,interleague_fl,park_id,park_name,park_loc
+DET201909160,R,Regular Season,F,T,F,16:10,565584,det,AL,bal,AL,Detroit,Baltimore,Detroit Tigers,Baltimore Orioles,F,2394,Comerica Park,"Detroit, MI"
+MIN201909160,R,Regular Season,F,T,F,18:40,567036,min,AL,cha,AL,Minnesota,Chi White Sox,Minnesota Twins,Chicago White Sox,F,3312,Target Field,"Minneapolis, MN"
+CHN201909160,R,Regular Season,F,T,F,19:05,565198,chn,NL,cin,NL,Chi Cubs,Cincinnati,Chicago Cubs,Cincinnati Reds,F,17,Wrigley Field,"Chicago, IL"
+OAK201909160,R,Regular Season,F,T,F,19:07,566159,oak,AL,kca,AL,Oakland,Kansas City,Oakland Athletics,Kansas City Royals,F,10,Oakland Coliseum,"Oakland, CA"
+ARI201909160,R,Regular Season,F,T,F,18:40,564905,ari,NL,mia,NL,Arizona,Miami,Arizona Diamondbacks,Miami Marlins,F,15,Chase Field,"Phoenix, AZ"
+COL201909160,R,Regular Season,F,T,F,18:40,565488,col,NL,nyn,NL,Colorado,NY Mets,Colorado Rockies,New York Mets,F,19,Coors Field,"Denver, CO"
+MIL201909160,R,Regular Season,F,T,F,18:40,567626,mil,NL,sdn,NL,Milwaukee,San Diego,Milwaukee Brewers,San Diego Padres,F,32,Miller Park,"Milwaukee, WI"
+SLN201909160,R,Regular Season,F,T,F,18:45,566642,sln,NL,was,NL,St. Louis,Washington,St. Louis Cardinals,Washington Nationals,F,2889,Busch Stadium,"St. Louis, MO"

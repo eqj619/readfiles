@@ -1,0 +1,9 @@
+retro_game_id,game_type,game_type_des,st_fl,regseason_fl,playoff_fl,local_game_time,game_id,home_team_id,home_team_lg,away_team_id,away_team_lg,home_team_name,away_team_name,home_team_name_full,away_team_name_full,interleague_fl,park_id,park_name,park_loc
+NYN201909090,R,Regular Season,F,T,F,19:10,566057,nyn,NL,ari,NL,NY Mets,Arizona,New York Mets,Arizona Diamondbacks,F,3289,Citi Field,"Flushing, NY"
+PHI201909090,R,Regular Season,F,T,F,19:05,567131,phi,NL,atl,NL,Philadelphia,Atlanta,Philadelphia Phillies,Atlanta Braves,F,2681,Citizens Bank Park,"Philadelphia, PA"
+SDN201909090,R,Regular Season,F,T,F,19:10,566346,sdn,NL,chn,NL,San Diego,Chi Cubs,San Diego Padres,Chicago Cubs,F,2680,Petco Park,"San Diego, CA"
+ANA201909090,R,Regular Season,F,T,F,19:07,564803,ana,AL,cle,AL,LA Angels,Cleveland,Los Angeles Angels,Cleveland Indians,F,1,Angel Stadium,"Anaheim, CA"
+MIA201909090,R,Regular Season,F,T,F,19:10,567433,mia,NL,mil,NL,Miami,Milwaukee,Miami Marlins,Milwaukee Brewers,F,4169,Marlins Park,"Miami, FL"
+BOS201909090,R,Regular Season,F,T,F,19:10,565101,bos,AL,nya,AL,Boston,NY Yankees,Boston Red Sox,New York Yankees,F,3,Fenway Park,"Boston, MA"
+HOU201909090,R,Regular Season,F,T,F,19:10,565678,hou,AL,oak,AL,Houston,Oakland,Houston Astros,Oakland Athletics,F,2392,Minute Maid Park,"Houston, TX"
+SFN201909090,R,Regular Season,F,T,F,18:45,566539,sfn,NL,pit,NL,San Francisco,Pittsburgh,San Francisco Giants,Pittsburgh Pirates,F,2395,Oracle Park,"San Francisco, CA"

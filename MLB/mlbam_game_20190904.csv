@@ -1,0 +1,12 @@
+retro_game_id,game_type,game_type_des,st_fl,regseason_fl,playoff_fl,local_game_time,game_id,home_team_id,home_team_lg,away_team_id,away_team_lg,home_team_name,away_team_name,home_team_name_full,away_team_name_full,interleague_fl,park_id,park_name,park_loc
+OAK201909040,R,Regular Season,F,T,F,19:07,566154,oak,AL,ana,AL,Oakland,LA Angels,Oakland Athletics,Los Angeles Angels,F,10,Oakland Coliseum,"Oakland, CA"
+CLE201909040,R,Regular Season,F,T,F,19:10,565386,cle,AL,cha,AL,Cleveland,Chi White Sox,Cleveland Indians,Chicago White Sox,F,5,Progressive Field,"Cleveland, OH"
+LAN201909040,R,Regular Season,F,T,F,19:10,565871,lan,NL,col,NL,LA Dodgers,Colorado,Los Angeles Dodgers,Colorado Rockies,F,22,Dodger Stadium,"Los Angeles, CA"
+KCA201909040,R,Regular Season,F,T,F,19:15,565773,kca,AL,det,AL,Kansas City,Detroit,Kansas City Royals,Detroit Tigers,F,7,Kauffman Stadium,"Kansas City, MO"
+PIT201909040,R,Regular Season,F,T,F,19:05,566247,pit,NL,mia,NL,Pittsburgh,Miami,Pittsburgh Pirates,Miami Marlins,F,31,PNC Park,"Pittsburgh, PA"
+BOS201909040,R,Regular Season,F,T,F,19:10,565096,bos,AL,min,AL,Boston,Minnesota,Boston Red Sox,Minnesota Twins,F,3,Fenway Park,"Boston, MA"
+WAS201909040,R,Regular Season,F,T,F,13:05,565965,was,NL,nyn,NL,Washington,NY Mets,Washington Nationals,New York Mets,F,3309,Nationals Park,"Washington, DC"
+CIN201909040,R,Regular Season,F,T,F,18:40,565290,cin,NL,phi,NL,Cincinnati,Philadelphia,Cincinnati Reds,Philadelphia Phillies,F,2602,Great American Ball Park,"Cincinnati, OH"
+ARI201909040,R,Regular Season,F,T,F,18:40,564901,ari,NL,sdn,NL,Arizona,San Diego,Arizona Diamondbacks,San Diego Padres,F,15,Chase Field,"Phoenix, AZ"
+SLN201909040,R,Regular Season,F,T,F,18:45,566637,sln,NL,sfn,NL,St. Louis,San Francisco,St. Louis Cardinals,San Francisco Giants,F,2889,Busch Stadium,"St. Louis, MO"
+NYA201909040,R,Regular Season,F,T,F,18:35,567530,nya,AL,tex,AL,NY Yankees,Texas,New York Yankees,Texas Rangers,F,3313,Yankee Stadium,"Bronx, NY"
